@@ -26,10 +26,6 @@ window/size/viewport_height=720
 window/size/transparent=true
 window/per_pixel_transparency/allowed=true
 
-[editor]
-
-run/main_run_args="--icon \"C:\\Users\\Marlon49\\Desktop\\icontestxd.png\" --color 0000FF --title \"lol\""
-
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
